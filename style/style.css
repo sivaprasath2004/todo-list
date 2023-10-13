@@ -202,6 +202,6 @@ input:focus+.text{
         top: 22%;
     }
     .text{font-size: 1.2rem;}
-    #about_checked{width:45%;height: 200px;left: 0%;transform: translateY(-150%);}
+    #about_checked{width:48%;height: 230px;left: 0%;transform: translateY(-150%);}
     #about_checked p{font-size: 1rem;font-weight: 600;}
 }
